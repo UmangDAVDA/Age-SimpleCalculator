@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Age,Simple Calculator</string>
+
+    <!-- About -->
+    <!-- <string name="about_btn_faq">FAQ</string>
+     <string name="about_btn_feedback">Send Feedback</string>
+     <string name="about_btn_contact">Contact</string>
+     <string name="about_btn_license">Licensing Information</string>-->
+     <string name="owner_name">Umang Davda,Manisha Chorotia</string>
+     <string name="made_by">Made by</string>
+     <string name="calculate">Calculate</string>
+     <string name="about">About</string>
+     <string name="_1">1</string>
+     <string name="_7">7</string>
+     <string name="Mul">*</string>
+     <string name="_9">9</string>
+     <string name="Div">/</string>
+     <string name="Equal">=</string>
+     <string name="_0">0</string>
+     <string name="_8">8</string>
+     <string name="clear">CLEAR</string>
+     <string name="Clear">-</string>
+     <string name="_5">5</string>
+     <string name="_6">6</string>
+     <string name="_2">2</string>
+     <string name="Add">+</string>
+     <string name="_3">3</string>
+     <string name="_4">4</string>
+
+ </resources>
